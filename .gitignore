@@ -44,6 +44,9 @@ cmake-build-*/
 # IntelliJ
 out/
 
+# Patch
+*.patch
+
 # mpeltonen/sbt-idea plugin
 .idea_modules/
 
