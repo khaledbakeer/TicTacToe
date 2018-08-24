@@ -22,23 +22,4 @@
  * SOFTWARE.                                                                  *
  ******************************************************************************/
 
-import includes.MainFrame;
-
-/**
- * TicTocToe Runner
- */
-public class AppRunner {
-
-    /**
-     * Method App Runner
-     */
-    public AppRunner() {
-        MainFrame tic = new MainFrame();
-        tic.showMainFrame();
-    }
-
-    public static void main(String[] args) {
-        new AppRunner();
-    }
-}
-
+packageSearchIndex = [{"l":"includes"}]
