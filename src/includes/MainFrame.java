@@ -55,6 +55,7 @@ import java.io.IOException;
  *      <li>List of all Movements: {@link #lblLog} {@link #lblLogModel}</li>
  * </ol>
  */
+
 public class MainFrame extends JFrame implements ActionListener {
 
     private int posX;
