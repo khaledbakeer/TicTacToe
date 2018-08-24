@@ -1,5 +1,8 @@
 # Java_TicTacToe
 
-+ [documentation!](https://khaledbakeer.github.io/Java_TicTacToe/includes/MainFrame.html)
++ [Documentation](https://khaledbakeer.github.io/Java_TicTacToe/includes/MainFrame.html)
+
++ [Download the Game and Test it](https://github.com/khaledbakeer/Java_TicTacToe/raw/master/Tests/TicTacToe.jar)
+
 
 ![TicTacToe](recources/pic1.png)
