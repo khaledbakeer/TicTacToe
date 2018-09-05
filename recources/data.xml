@@ -31,22 +31,23 @@
      <int>1</int>
     </void>
     <void index="1">
-     <int>2</int>
-    </void>
-    <void index="2">
-     <int>3</int>
+     <int>4</int>
     </void>
    </array>
   </void>
   <void index="1">
    <array class="java.lang.Object" length="3">
     <void index="0">
-     <int>4</int>
+     <int>2</int>
     </void>
    </array>
   </void>
   <void index="2">
-   <array class="java.lang.Object" length="3"/>
+   <array class="java.lang.Object" length="3">
+    <void index="0">
+     <int>3</int>
+    </void>
+   </array>
   </void>
  </array>
 </java>

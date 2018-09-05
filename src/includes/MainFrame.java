@@ -325,7 +325,7 @@ public class MainFrame extends JFrame implements ActionListener {
             for (int j = 0; j < 3; j++) {
                 if (e.getSource() == btn[i][j]) {
                     setN(getN() + 1);
-                    addXO(i, j);
+                    addXO(j, i);
                     btn[i][j].setEnabled(false);
                     btn[i][j].setText(XorO());
                     checkWinner(i, j);
